@@ -1,1 +1,2 @@
-print("I scream is a message")
+print("Hello Yosuke!")
+print("I scream")
